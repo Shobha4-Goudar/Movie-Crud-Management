@@ -40,3 +40,6 @@ src/
 
 This project is part of my learning journey in Java Web Development.
 It helped me understand CRUD operations, MVC, Servlets, and JSP better.
+
+🎥Project Demo Video 
+https://drive.google.com/file/d/1LaJPhlxeaYLAEFaHTay3Uf0VBv2l4N2N/view?usp=sharing
